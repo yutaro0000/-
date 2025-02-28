@@ -1,0 +1,7 @@
+# 仮想環境を除外
+.venv/
+
+# Python関連の不要なファイルを除外
+__pycache__/
+*.pyc
+*.pyo
